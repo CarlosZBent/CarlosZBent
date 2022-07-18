@@ -2,7 +2,7 @@
 
 Hi. Mi name is **Carlos Z. Bent** and I'm from **Cuba**.
 
-I'm a **Full stack web developer** and blogger, you can find my writing at [Medium](https://medium.com@carloszbent), and subscribe to [my newsletter](https://www.getrevue.co/profile/carloszbent). 
+I'm a **Full stack web developer** and **blogger**, you can find my writing at [Medium](https://medium.com@carloszbent), and subscribe to [my newsletter](https://www.getrevue.co/profile/carloszbent). 
 
 ## Main technologies I work with
 
