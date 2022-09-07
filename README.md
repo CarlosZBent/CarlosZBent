@@ -6,7 +6,7 @@ I'm a **Full stack web developer** and **writer**, you can find my writing at [M
 
 ## Main technologies I work with
 
-* I mostly work with **React.js**, **Tailwind** and **Django** for the web. 
+* I mostly work with **React.js**, **Bootstrap** and **Tailwind**, and **Django** for the web. 
 * My other main tool is **[python-telegram-bot](https://github.com/python-telegram-bot)** 
 
 ## Getting more personal
