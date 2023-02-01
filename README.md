@@ -1,21 +1,23 @@
 # About me 
 
-Hi. Mi name is **Carlos Z. Bent** and I'm from **Cuba**.
+Hi. My name is **Carlos Z. Bent**.
 
-I'm a **Full stack web developer** and **writer**, you can find my writing at [Medium](https://medium.com@carloszbent), and subscribe to [my newsletter](https://www.getrevue.co/profile/carloszbent). 
+I'm a **Software developer** and **writer**, you can find my writing at [Medium](https://medium.com@carloszbent), and subscribe to [my newsletter](https://carloszbent.substack.com/).
 
-## Main technologies I work with
+## Main areas I work on
 
-* I mostly work with **React.js**, **Bootstrap** and **Tailwind**, and **Django** for the web. 
-* My other main tool is **[python-telegram-bot](https://github.com/python-telegram-bot)** 
+* I work both on the front-end and the back-end of web development
+* I also develop social media bots
+* I'm highly proficient using low-code and no-code tools like Zoho, Zapier, Typeform, Airtable, Skyvia, etc. 
 
 ## Getting more personal
 
-I love learning new languages. Currently speak Spanish, English, and I'm learning German.
-I play videogames a lot, and want to build some at some point, I read daily (both fiction and none fiction), and consume a lot of sports.
+I love learning new things, be it languages, technologies, philosophies, or just fun facts
+Videogames and books are my main two hobbies and ways of learning and growing, and I also consume a lotof professional sports.
 
 ## Contact
 
-You can hit me up for anything you need on my [Telegram community](https://t.me/carloszbent_channel), [Showwcase](https://showwcase.com/carloszbent), or [Twitter](https://twitter.com/CarlosZBent). Also, my email adress is bentsoft365@gmail.com.
+You can hit me up for anything you need on my [Telegram community](https://t.me/carloszbent_channel), [Showwcase](https://showwcase.com/carloszbent), or [Twitter](https://twitter.com/CarlosZBent). 
+Also, my email adress is bentsoft365@gmail.com, you are welcome to get in touch.
 
 Hope to hear from you!
