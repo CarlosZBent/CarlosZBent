@@ -17,7 +17,13 @@ Videogames and books are my main two hobbies and ways of learning and growing, a
 
 ## Contact
 
-You can hit me up for anything you need on my [Telegram community](https://t.me/carloszbent_channel), [Showwcase](https://showwcase.com/carloszbent), or [Twitter](https://twitter.com/CarlosZBent). 
+You can hit me up for anything you need on my [Telegram community](https://t.me/carloszbent_channel) or [Twitter](https://twitter.com/CarlosZBent). 
 Also, my email adress is bentsoft365@gmail.com, you are welcome to get in touch.
 
 Hope to hear from you!
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=CarlosZBent&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosZBent&theme=blue-green)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=CarlosZBent)
