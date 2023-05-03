@@ -25,5 +25,3 @@ Hope to hear from you!
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=CarlosZBent&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosZBent&theme=blue-green)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=CarlosZBent)
