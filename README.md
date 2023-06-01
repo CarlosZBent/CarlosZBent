@@ -6,7 +6,7 @@ I'm a **Software developer** and **writer**, you can find my writing at [Medium]
 
 ## Main areas I work on
 
-* I work both on the front-end and the back-end of web development
+* I work both front-end and the back-end. I just enjoy coding :)
 * I'm highly proficient using low-code and no-code tools like Zoho, Zapier, Typeform, Airtable, Skyvia, etc. 
 
 ## Getting more personal
