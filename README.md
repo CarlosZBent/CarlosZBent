@@ -2,7 +2,7 @@
 
 Hi. My name is **Carlos Z. Bent**.
 
-I'm a **Software developer** and **writer**, you can find my writing at [Medium](https://medium.com@carloszbent), and subscribe to [my newsletter](https://carloszbent.substack.com/).
+I'm a **Software developer** and **Business Systems developer**.
 
 ## Main areas I work on
 
