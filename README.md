@@ -1,23 +1,20 @@
 # About me 
 
-Hi. My name is **Carlos Z. Bent**.
+Hi. My name is **Carlos Zaldivar**.
 
-I'm a **Software developer** and **Business Systems developer**.
+I'm a **Software developer** and **Business Systems/Operations developer**.
 
 ## Main areas I work on
 
-* I work both front-end and the back-end. I just enjoy coding :)
-* I'm highly proficient using low-code and no-code tools like Zoho, Zapier, Typeform, Airtable, Skyvia, etc. 
-
-## Getting more personal
-
-I love learning new things, be it languages, technologies, philosophies, or just fun facts
-Videogames and books are my main two hobbies and ways of learning and growing, and I also consume a lot of professional sports.
+* Developing integrations and automations for business platforms.
+* Developing front-end and back-end applications.
+* Creating, upgrading and diagnosing workflows using low-code and no-code tools like n8n, Workato, Zoho, Zapier, Airtable, Skyvia, etc. 
 
 ## Contact
 
-You can hit me up for anything you need on my [Telegram community](https://t.me/carloszbent_channel) or [Twitter](https://twitter.com/CarlosZBent). 
-Also, my email adress is bentsoft365@gmail.com, you are welcome to get in touch.
+You can find me on [Bluesky](https://bsky.app/profile/carloszbent.bsky.social) or reach out at contact@carloszbent.com.
+
+You can also see more about my work at [bentsoft.net](https://bentsoft.net)
 
 Hope to hear from you!
 
